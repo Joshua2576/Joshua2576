@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis, machine learning, and data visualization.
 - 🌱 I’m currently learning advanced Python programming and exploring data science techniques.
 - 💞️ I’m looking to collaborate on data-driven projects and contribute to open-source initiatives.
-- 📫 How to reach me You can email me at joshuaosewe6@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/amahianjoshua.
+- 📫 How to reach me...You can email me at joshuaosewe6@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/amahianjoshua.
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I’m passionate about lifelong learning!
 
